@@ -14,11 +14,6 @@ h1 {
   color: #d9e1e8;
 }
 
-a {
-  color: #d9e1e8;
-  text-decoration: none;
-}
-
 @media (max-width: 600px) {
   .container {
     width: 80%;
